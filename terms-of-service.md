@@ -1,8 +1,3 @@
----
-layout: page
-title: Privacy Policy for FlickO
----
-
 # Privacy Policy for FlickO
 Last updated: October 2024
 
